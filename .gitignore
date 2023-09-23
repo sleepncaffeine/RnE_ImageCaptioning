@@ -2,4 +2,5 @@ Flicker8k_Dataset/
 Flickr8k_text/
 compressed_dataset/
 test/
+env/
 *.zip
