@@ -1,5 +1,5 @@
 # RnE_ImageCaptioning
- 2023 GSA informatics, ImageCaptioning 박진재, 강현아, 서진현
+ 2023 GSA informatics R&E, ImageCaptioning 박진재, 강현아, 서진현
 
 # Codes
 `ImageCaption.ipynb`: image captioning model training  
