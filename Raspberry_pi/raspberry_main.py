@@ -23,6 +23,9 @@ def take_photo():
     camera.stop_preview()
 
 
+button.when_pressed = take_photo
+
+
 cmd_beg = "espeak "
 cmd_end = " 2>/dev/null"
 
